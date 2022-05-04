@@ -1,0 +1,15 @@
+5 steps : 
+init - intialisation of local VC
+add - adding files to track
+commit - saving an important stage 
+remote add - connecting this local folder/ repository with Cloud(Github) storage
+push - Uploading it to the selected Cloud Space
+
+After changes
+
+add - adding files to track
+commit - saving an important stage 
+push - Uploading it to the selected Cloud Space
+
+
+
